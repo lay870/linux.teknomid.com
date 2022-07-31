@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://teknomid.com/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://linux.teknomid.com/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://teknomid.com/</loc>
+<loc>https://linux.teknomid.com/</loc>
 </url>
 <url>
-<loc>https://teknomid.com/rpm-based-linux/</loc>
+<loc>https://linux.teknomid.com/rpm-based-linux.html</loc>
 <lastmod>2022-08-01T00:29:47+07:00</lastmod>
 <image:image>
-<image:loc>https://teknomid.com/media\posts\228/Redhat-2.png</image:loc>
+<image:loc>https://linux.teknomid.com/media\posts\228/Redhat-2.png</image:loc>
 <image:title><![CDATA[RPM Based Linux Distribution]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://teknomid.com/media\posts\228/Redhat.png</image:loc>
+<image:loc>https://linux.teknomid.com/media\posts\228/Redhat.png</image:loc>
 <image:title><![CDATA[Red Hat Linux Distribution]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://teknomid.com/media\posts\228/centos.png</image:loc>
+<image:loc>https://linux.teknomid.com/media\posts\228/centos.png</image:loc>
 <image:title><![CDATA[Centos Linux Distribution]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://teknomid.com/media\posts\228/fedora.png</image:loc>
+<image:loc>https://linux.teknomid.com/media\posts\228/fedora.png</image:loc>
 <image:title><![CDATA[Fedora Linux Distribution]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://teknomid.com/media\posts\228/openSUSE-2.png</image:loc>
+<image:loc>https://linux.teknomid.com/media\posts\228/openSUSE-2.png</image:loc>
 <image:title><![CDATA[openSUSE Linux Distribution]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://teknomid.com/media\posts\228/Mandrake-Linux-Distribution.png</image:loc>
+<image:loc>https://linux.teknomid.com/media\posts\228/Mandrake-Linux-Distribution.png</image:loc>
 <image:title><![CDATA[Mandrake Linux Distribution]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://teknomid.com/media\posts\228/oracle-linux-2.png</image:loc>
+<image:loc>https://linux.teknomid.com/media\posts\228/oracle-linux-2.png</image:loc>
 <image:title><![CDATA[Oracle Linux Distribution]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://teknomid.com/media\posts\228/rocky-linux.png</image:loc>
+<image:loc>https://linux.teknomid.com/media\posts\228/rocky-linux.png</image:loc>
 <image:title><![CDATA[Rocky Linux Distribution]]></image:title>
 </image:image>
 </url>
