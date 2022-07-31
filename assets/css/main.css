@@ -383,15 +383,15 @@ table td {
 }
 
 figcaption {
-  color: var(--gray-1);
+  color: var(--link-hover-color);
   font-family: var(--body-font);
   font-weight: var(--font-weight-normal);
   font-size: 0.7724761953rem;
   margin: -1.5285714285999998rem 0 0;
-  text-align: left;
+  text-align: center;
   background: var(--dark);
   border-radius: 0 0 5px 5px;
-  padding-top: 8px;
+  padding-top: 25px;
 }
 
 sub,
